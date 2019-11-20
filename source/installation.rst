@@ -413,7 +413,7 @@ you can install it by using pip:
 
 Step 3. Download and Launch WebODM
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
+You may need to use sudo to start the script ./webodm.sh successfully.
 From a terminal type:
 
 .. code:: bash
